@@ -1,25 +1,18 @@
-# 👋 ¡Hola, soy Sergio!
+# 👋 Hi, I'm Sergio!
 
-Licenciado en Técnico en Sistemas Microinformáticos y Redes.
-Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma.
-## 👨‍💻 Sobre mí...
-Desde siempre me ha gustado el mundo de la informática, tanto que es así, que empecé a estudiar al 100% todo lo que va relaccionado a este mundo. Todo empezo con
-simplemente buscar en internet hasta que ya aprendí a manejarme en el entorno de la informática desde el hardware, hasta la programación pasando por la electrónica.
-Durante todo este tiempo he aprendido a manejar algunos lenguajes de programación, programas y diseño e impresión 3D. Cada día quiero empezar a crear y aprender algo nuevo.
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/sergiocon_)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sergiocon_)<br>
+Graduated in computer technical.</br>
+Currently studying multiplatform application development.
 
-## 🛠 Aprendizaje...
-Lenguajes de programación:
+## 👨‍💻 About me...
+I have always liked the world of computing, so much so that I began to study 100% everything related to this world.
+It all started with I simply searched the Internet until I learned to navigate the computer environment from hardware to programming to electronics.
+During all this time I have learned to use some programming languages, programs and 3D design and printing. Every day I want to start creating and learning something new.
 
-- Python.
-- Java (actualmente aprendiendo).
-
-Entornos web:
-- HTML.
-- CSS.
-- WordPress.
-- DIVI (conjunto con WordPress).
-
-Otros:
-- Ultimaker Cura.
-- Raspberry Pi.
-- Arduino.
+## 🛠 Learning...
+![Programas](https://skillicons.dev/icons?i=vscode,ps,ai,xd,figma)
+![Lenguajes de programación](https://skillicons.dev/icons?i=python,java)
+![Entornos web](https://skillicons.dev/icons?i=html,css,wordpress)
+![Otros](https://skillicons.dev/icons?i=arduino,raspberrypi,linux)<br>
+*Some of them I am in the process of learning...*
