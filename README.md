@@ -11,7 +11,7 @@ It all started with I simply searched the Internet until I learned to navigate t
 During all this time I have learned to use some programming languages, programs and 3D design and printing. Every day I want to start creating and learning something new.
 
 ## 🛠 Learning...
-![Programas](https://skillicons.dev/icons?i=vscode,ps,ai,xd,figma)
+![Programas](https://skillicons.dev/icons?i=vscode,idea,ps,ai,xd,figma)
 ![Lenguajes de programación](https://skillicons.dev/icons?i=python,java)
 ![Entornos web](https://skillicons.dev/icons?i=html,css,wordpress)
 ![Otros](https://skillicons.dev/icons?i=arduino,raspberrypi,linux)<br>
