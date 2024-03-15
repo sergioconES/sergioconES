@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Sergio!
-
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/sergiocon_)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sergiocon_)<br>
 Graduated in computer technical.</br>
 Currently studying multiplatform application development.
+
+Social Media:
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/sergiocon_)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sergiocon_)<br>
 
 ## 👨‍💻 About me...
 I have always liked the world of computing, so much so that I began to study 100% everything related to this world.
