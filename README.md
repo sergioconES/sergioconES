@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sergio!
 Graduated in computer technical.</br>
-Currently studying multiplatform application development.
+Currently studying multiplatform application development.</br>
 
-Social Media:
+Social Media:</br>
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/sergiocon_)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sergiocon_)<br>
 
